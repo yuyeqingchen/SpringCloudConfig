@@ -1,2 +1,2 @@
-server:
-  port: 8001
+config:
+  Info: config-dev.yml  --version
